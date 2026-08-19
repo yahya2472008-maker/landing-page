@@ -1,0 +1,83 @@
+{
+  "brand": {
+    "name": "Nexa",
+    "description": "A modern workspace for teams that want to build better products."
+  },
+
+  "hero": {
+    "eyebrow": "The future of productivity",
+    "title": "Build better. Move faster.",
+    "description": "A powerful workspace designed to help modern teams organize, create, and launch products faster."
+  },
+
+  "features": [
+    {
+      "icon": "✦",
+      "title": "Smart Workspace",
+      "description": "Keep your projects, documents, tasks and conversations organized inside one beautiful workspace."
+    },
+    {
+      "icon": "◈",
+      "title": "Team Collaboration",
+      "description": "Work together in real-time and keep everyone aligned with instant updates and shared projects."
+    },
+    {
+      "icon": "↗",
+      "title": "Powerful Analytics",
+      "description": "Understand your team's progress with clear dashboards, reports and actionable insights."
+    },
+    {
+      "icon": "✓",
+      "title": "Task Management",
+      "description": "Turn complex projects into simple actionable tasks and keep every deadline under control."
+    },
+    {
+      "icon": "⌁",
+      "title": "Automation",
+      "description": "Automate repetitive workflows so your team can focus on important creative work."
+    },
+    {
+      "icon": "∞",
+      "title": "Unlimited Scale",
+      "description": "Start with a small team and scale your workspace as your company continues to grow."
+    }
+  ],
+
+  "workflow": [
+    {
+      "number": "01",
+      "title": "Plan",
+      "description": "Organize your ideas and turn them into clear actionable projects."
+    },
+    {
+      "number": "02",
+      "title": "Collaborate",
+      "description": "Bring your team together and work in real-time from one workspace."
+    },
+    {
+      "number": "03",
+      "title": "Launch",
+      "description": "Track every detail and launch your product with confidence."
+    }
+  ],
+
+  "pricing": {
+    "name": "Nexa Pro",
+    "price": 12,
+    "currency": "$",
+    "period": "user / month",
+    "description": "Everything you need to build and manage products with your team.",
+    "features": [
+      "Unlimited projects",
+      "Advanced analytics",
+      "Team collaboration",
+      "Automation"
+    ]
+  },
+
+  "social": {
+    "instagram": "#",
+    "twitter": "#",
+    "linkedin": "#"
+  }
+}
